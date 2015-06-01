@@ -1,5 +1,5 @@
 # C# Rotozoomer source
-=======================
+
 First released (in this form) on: 25-dec-2005
 
 'Rotozoomer' is an old demoscene effect. It was first invented by Chaos / Sanity on the Amiga 500 in 1989. I 
