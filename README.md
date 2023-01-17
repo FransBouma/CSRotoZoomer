@@ -5,7 +5,7 @@ First released (in this form) on: 25-dec-2005
 'Rotozoomer' is an old demoscene effect. It was first invented by Chaos / Sanity on the Amiga 500 in 1989. I 
 programmed my first rotozoomer in 1990 also on the Amiga 500 in MC68000 assembler for our 
 Somewhere In Holland 1 democompetition winner 'Internal Exile' (for Perseus). Video of that demo can be found here:
-https://www.youtube.com/watch?v=Xa89u44hK9c. If you want to run it on your own Amiga or WinUAE on PC, go here:
+https://www.youtube.com/watch?v=riIIidPtuFE. If you want to run it on your own Amiga or WinUAE on PC, go here:
 http://www.pouet.net/prod.php?which=12439
 
 Because this implementation can eat any size of image and also can render to any size of canvas, the
